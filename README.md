@@ -50,7 +50,7 @@ Control Map Reader is a script for creating an image out of an FRC driver & oper
     RSB:
     ```
 3. Fill each btn for it's task (e.g ``` D_UP: Shoot```).<p>
-**NOTE:** Be abstract with the action description so the image wont look be overwhelming.<p>
+**NOTE:** Be abstract with the action description so the image wont look overwhelming.<p>
  
 4. Run the Batch file (Change the directory before).<p>
 
